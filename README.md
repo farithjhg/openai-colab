@@ -29,8 +29,8 @@ To get started, you'll need a Google account to access Google Colab and an OpenA
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/openai-google-colab-examples.git
-   cd openai-google-colab-examples
+   git clone https://github.com/farithjhg/openai-colab.git
+   cd openai-colab
    ```
 
 2. **Open in Google Colab**:
