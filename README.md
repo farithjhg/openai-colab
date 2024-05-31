@@ -1,7 +1,3 @@
-Sure, here’s a cool README content in Markdown format for a public GitHub repository featuring code about OpenAI and Google Colab:
-
----
-
 # OpenAI & Google Colab Examples
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-brightgreen) ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-orange)
